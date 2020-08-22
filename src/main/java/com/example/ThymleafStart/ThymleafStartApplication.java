@@ -9,5 +9,6 @@ public class ThymleafStartApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ThymleafStartApplication.class, args);
 	}
+	
 
 }
